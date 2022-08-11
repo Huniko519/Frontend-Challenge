@@ -1,2 +1,1 @@
-# Trading-View-React
-💹 Trading View
+Coding Challenge
